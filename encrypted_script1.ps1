@@ -1,4 +1,3 @@
-#"[decimal]$version= 2 "
 $version = 4.2
 #This is new script
 #Write-Host 'new script'
