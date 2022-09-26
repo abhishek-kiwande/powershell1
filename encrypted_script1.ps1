@@ -5,4 +5,4 @@ $a = powershell.exe -enc IwBGAGkAbgBkAC0ATQBvAGQAdQBsAGUAIABQAFMAUwBvAGYAdAB3AGE
 #$MyInvocation.ScriptName
 #$scriptName = & { $myInvocation.ScriptName }
 #$scriptName
-echo("hello world")
+
